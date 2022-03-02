@@ -1,87 +1,61 @@
-<!-- Your title -->
-## Hi, I'm Absozero, a programmer in the bay area..
 
-<!-- Your badges
-You can use the website to generate badges: https://shields.io/
--->
+# I'm Absozero, hello! 👋
+[![Links](https://img.shields.io/badge/-Links-green?style=flat&link=https://linktr.ee/absozero)](https://linktr.ee/absozero)
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/absozero)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/murillo-comino-6124ab49/)
-[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/murillo_comino/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:murillo.comino@gmail.com)
-[![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:azermazer165@hotmail.com)
+An open source enthusiast, indecisive developer, and a humorous person. I love to 👨‍💻 code and work with any type of software, regardless of the language.
 
-&nbsp;
+:robot: Hardware is also a portion that I like, I work in robotics, in the VEX ecosystem. That is where two portions come together, both coding and controlling hardware on the robot.
 
-<!-- Talking about you -->
-**Talking about Personal Stuffs:**
+I also work in the web and desktop fields, with javascript and python mainly, and C++ and java if I need to.
+```python
+if (Absozero ++ open-source) == true:
+	print("That's a good thing")
+else:
+	print("Get working") 
+```
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=absozero&theme=radical)](https://github.com/absozero)
+## I use:
+### Technologies:
+- VSCode
+- Linux
+- Git
+- C++
+	- Cmake
+	- Clang
+	- Gcc
+- Javascript
+	- Node
+- Python
+	- venv
 
-<!-- Any image aligned to the right. Beware the width -->
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
-- 👨🏽‍💻 I’m currently working on [Handle Path Oz](https://github.com/onimur/handle-path-oz);
-- 🌱 I’m currently learning Kotlin and Continuous Integration(CircleCI); 
-- 👯 I’m looking to collaborate on [Handle Path Oz](https://github.com/onimur/handle-path-oz) 🤝;
-- 🤔 I’m looking for help with Design Pattern 😭;
-- 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: I have a degree in civil engineering;
-- 📫 How to reach me: murillo_comino@hotmail.com;
-
-**Languages and Tools:** 
-
-<!-- Your github readme stats
-You can use this api: https://github.com/anuraghazra/github-readme-stats
--->
-<p>
-  <a href="https://github.com/onimur/handle-path-oz">
-    <img width="55%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=onimur&show_icons=true&hide_border=true" />
-  </a>
-  
-  <!-- Your languages and tools. Be careful with the alignment. 
-  You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
-  -->
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gradle/gradle-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/circleci/circleci-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
-</p>
-
-<!-- Your hits or visitors
-site: http://hits.dwyl.com or https://visitor-badge.glitch.me
-Both apis are in trouble due to the number of requests, if you know any other to register visitors, great
--->
-<p align="center">
-  <img alt="HitCount" src="http://hits.dwyl.com/absozero/absozero.svg" />
-  <img alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=absozero.absozero" />
-  <!-- https://github.com/wesky93/views this is a clone of the hits -->
-  <img alt="ViewCount" src="https://views.whatilearened.today/views/github/onimur/onimur.svg" />
-</p>
-
-## Support me
-<!-- Your support, if you have it 
 ---
 
-<!-- Its main projects -->
-<p align="center">
-  <a href="https://github.com/onimur/handle-path-oz">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=absozero&repo=blog" />
-  </a>
-  <a href="https://github.com/onimur/circleci-github-changelog-generator">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=onimur&repo=circleci-github-changelog-generator" />
-  </a>
-</p>
+### My stack:
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/absozero)](https://github.com/absozero)
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/absozero)](https://github.com/absozero)
+[![Python](https://img.shields.io/badge/-Python-darkblue?style=flat&logo=python&logoColor=yellow&link=https://github.com/absozero)](https://github.com/absozero)
+[![Cpp](https://img.shields.io/badge/-C/C++-grey?style=flat&logo=c%2B%2B&logoColor=white&link=https://github.com/absozero)](https://github.com/absozero)
+[![Java](https://img.shields.io/badge/Java-brown?style=flat&logo=java&link=https://github.com/absozero)](https://github.com/absozero)
 
-<!-- This readme was created by Murillo Comino - https://github.com/onimur -->
-⭐️ The readme of [Absozero](https://github.com/absozero)
+[![Hugo](https://img.shields.io/badge/-Hugo-pink?style=flat&logo=hugo&logoColor=white&link=https://github.com/absozero)](https://github.com/absozero)
+[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/absozero)](https://github.com/absozero)
+[![JSON](https://img.shields.io/badge/-json-02569B?style=flat&logo=json&link=https://github.com/absozero)](https://github.com/absozero)
+[![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/absozero)](https://github.com/absozero)
+[![Electron](https://img.shields.io/badge/-Electron-gray?style=flat&logo=electron&link=https://github.com/absozero)](https://github.com/absozero)
 
+[![Nodejs](https://img.shields.io/badge/-Nodejs-green?style=flat&logo=Node.js&link=https://github.com/absozero)](https://github.com/absozero)
+[![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&link=https://github.com/absozero)](https://github.com/absozero)
+[![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/absozero)](https://github.com/absozero)
+[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/absozero)](https://github.com/absozero)
+[![Git](https://img.shields.io/badge/-Github-darkgrey?style=flat&logo=github&link=https://github.com/absozero)](https://github.com/absozero)
+
+[![Vim](https://img.shields.io/badge/-Vim-darkgreen?style=flat&logo=vim&link=https://github.com/absozero)](https://github.com/absozero)
+[![VSCode](https://img.shields.io/badge/-Vscode-blue?style=flat&logo=visual-studio-code&link=https://github.com/absozero)](https://github.com/absozero)
+[![Windows](https://img.shields.io/badge/-Windows-darkblue?style=flat&logo=windows&link=https://github.com/absozero)](https://github.com/absozero)
+[![Linux](https://img.shields.io/badge/-Linux-black?style=flat&logo=linux&logoColor=yellow&link=https://github.com/absozero)](https://github.com/absozero)
+
+---
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=absozero&theme=react&repo=absozero.github.io)](https://github.com/absozero/absozero.github.io)
+
+[![Abso's github stats](https://github-readme-stats.vercel.app/api?username=absozero&theme=blueberry&show_icons=true&hide_border=true)](https://github.com/absozero/absozero)
