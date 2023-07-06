@@ -1,5 +1,8 @@
 ﻿
 # I'm Absozero, hello! 👋
+
+![image](./banner.jpg)
+
 [![Links](https://img.shields.io/badge/-Links-green?style=flat&link=https://linktr.ee/absozero)](https://linktr.ee/absozero)
 
 An open source enthusiast, indecisive developer, and a humorous person. I love to 👨‍💻 code and work with any type of software, regardless of the language.
