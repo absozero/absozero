@@ -61,4 +61,4 @@ To be perfectly honest, I like modern languages because they have modern solutio
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=absozero&theme=react&repo=absozero.github.io)](https://github.com/absozero/absozero.github.io)
 
-[![Abso's github stats](https://github-readme-stats.vercel.app/api?username=absozero&theme=blueberry&show_icons=true&hide_border=true)](https://github.com/absozero/absozero)
+[![Abso's github stats](https://github-readme-stats.vercel.app/api?username=absozero&theme=blueberry&show_icons=true&hide_border=true&bg_color=303446&text_color=c6d0f5&icon_color=ca9ee6&title_color=81c8be)](https://github.com/absozero/absozero)
