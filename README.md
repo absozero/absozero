@@ -3,7 +3,7 @@
 
 ![image](./banner.jpg)
 
-[![Links](https://img.shields.io/badge/-Links-green?style=flat&link=https://linktr.ee/absozero)](https://linktr.ee/absozero)
+[![Links](https://img.shields.io/badge/-Links-green?style=flat&link=https://absozero.github.io)](https://absozero.github.io)
 
 An open source enthusiast, indecisive developer, and a humorous person. I love to 👨‍💻 code and work with any type of software, regardless of the language.
 
