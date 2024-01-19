@@ -5,31 +5,13 @@
 
 [![Links](https://img.shields.io/badge/-Links-green?style=flat&link=https://absozero.github.io)](https://absozero.github.io)
 
-An open source enthusiast, indecisive developer, and a humorous person. I love to 👨‍💻 code and work with any type of software, regardless of the language.
+I enjoy programming and the idea of being able to solve difficult problems and getting through difficulty to make breakthroughs.
 
-:robot: Hardware is also a portion that I like, I work in robotics, in the VEX ecosystem. That is where two portions come together, both coding and controlling hardware on the robot.
+I work in hardware, more specifically in the VEX ecosystem. I program and help build the robot after the design process.
 
-I also work in the web, desktop, and command line fields, with javascript and python mainly, and I also work with rust and go for low level/compiled software.
-```python
-if (Absozero ++ open-source) == true:
-	print("That's a good thing")
-else:
-	print("Get working") 
-```
-To be perfectly honest, I like modern languages because they have modern solutions to more modern developer problems.
+I firmly believe that many problems can be both created and solved by technology, and it is up to us, as developers, to choose which side to pursue.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=absozero&theme=radical)](https://github.com/absozero)
-## I use:
-### Technologies:
-- VSCode
-- Linux
-- Git
-- Go
-- Rust
-- Javascript
-	- Node
-- Python
-	- venv
 
 ---
 
