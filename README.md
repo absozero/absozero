@@ -1,5 +1,5 @@
 ﻿
-# I'm Absozero, hello! 👋
+# I'm Aswath (absozero), hello! 👋
 
 ![image](./banner.jpg)
 
