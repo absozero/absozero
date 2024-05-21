@@ -1,15 +1,17 @@
 ﻿
-# I'm Aswath (absozero), hello! 👋
+
 
 ![image](./banner.jpg)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=absozero&theme=react&repo=absozero.github.io)](https://absozero.github.io)
+# I'm Aswath (absozero), hello! 👋
 
 I enjoy programming and the idea of being able to solve difficult problems and getting through difficulty to make breakthroughs.
 
 I work in hardware, more specifically in the VEX ecosystem. I program and help build the robot after the design process.
 
 I firmly believe that many problems can be both created and solved by technology, and it is up to us, as developers, to choose which side to pursue.
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=absozero&theme=react&repo=absozero.github.io)](https://absozero.github.io)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=absozero&theme=radical)](https://github.com/absozero)
 
