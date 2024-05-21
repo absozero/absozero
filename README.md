@@ -3,7 +3,7 @@
 
 ![image](./banner.jpg)
 
-[![Links](https://img.shields.io/badge/-Links-green?style=flat&link=https://absozero.github.io)](https://absozero.github.io)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=absozero&theme=react&repo=absozero.github.io)](https://absozero.github.io)
 
 I enjoy programming and the idea of being able to solve difficult problems and getting through difficulty to make breakthroughs.
 
@@ -41,8 +41,6 @@ I firmly believe that many problems can be both created and solved by technology
 
 ---
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=absozero&theme=react&repo=absozero.github.io)](https://github.com/absozero/absozero.github.io)
-
 [![Abso's github stats](https://github-readme-stats.vercel.app/api?username=absozero&theme=blueberry&show_icons=true&hide_border=true&bg_color=303446&text_color=c6d0f5&icon_color=ca9ee6&title_color=81c8be)](https://github.com/absozero/absozero)
-[![GitHub Streak](https://streak-stats.demolab.com?user=absozero&theme=catppuccin-macchiato&hide_border=true&border_radius=8.5)](https://absozero.github.io)
+[![GitHub Streak](https://streak-stats.demolab.com?user=absozero&theme=catppuccin-frappe&hide_border=true&border_radius=8.5)](https://absozero.github.io)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=absozero&bg_color=303446&color=c6d0f5&line=ef9f76&point=e78284&area=true&hide_border=true)](https://absozero.github.io)
