@@ -3,7 +3,7 @@
 
 ![image](./banner.jpg)
 
-# I'm Aswath (absozero), hello! 👋
+# I'm Aswath (aka absozero), hello! 👋
 
 I enjoy programming and the idea of being able to solve difficult problems and getting through difficulty to make breakthroughs.
 
